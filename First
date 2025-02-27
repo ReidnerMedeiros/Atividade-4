@@ -1,0 +1,8 @@
+public class atvd4{
+public static void main (Sting[] agrs){
+
+System.out.println("Hello, word");
+
+}
+
+}
